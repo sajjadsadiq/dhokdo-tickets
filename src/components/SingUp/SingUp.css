@@ -1,0 +1,50 @@
+.authBox{
+    text-align:center;
+}
+.form-container{
+    margin: auto;
+    width: 50%;
+    
+}
+input{
+    display: block;
+    width: 400px;
+    height:40px;
+    padding: 10px;
+    margin-top: 18px;
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: groove;
+    
+}
+input:focus, textarea:focus, select:focus{
+    outline: none;
+}
+.form-design{
+    border: 1px solid silver;
+    border-radius: 5px;
+    padding: 20px;
+    width:500px;
+    margin-left: 85px;
+}
+.singUpTitle{
+    text-align:center;
+    color: #c82333;
+}
+.form-btn-desing{
+    margin-top: 30px;
+    width:400px;
+    padding:10px;
+    border-radius: 5px;
+    background-color: #c82333;
+    color: black;
+    text-decoration: none;
+
+}
+p{
+    text-align:center;
+}
+.error{
+    color: #c82333;
+}

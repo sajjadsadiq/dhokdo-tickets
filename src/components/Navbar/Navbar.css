@@ -1,0 +1,50 @@
+.main-container{
+    margin-top: 40px;
+    background-color: red;
+}
+.logo-container{
+    width:35%;
+    float: left;
+}
+.logo-desing{
+    font-family: roboto;
+    font-weight: bold;
+    margin-top: 15px;
+    color: #c82333;
+    text-align: center;
+}
+.nav-container{
+    width: 65%;
+    float:left;
+}
+.navbar-desing{
+    list-style-type: none;
+    display: flex;
+    
+}
+.nav-desing{
+    border: 1px solid silver;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin: 15px 10px;
+
+}
+
+
+.nav-desing:hover{
+    background-color:silver
+}
+.nav-desing a {
+    text-decoration: none;
+    color: black;
+}
+
+.btn-desing{
+    height: 45px;
+    margin-top: 15px;
+    width: 150px;
+}
+.btn-desing a{
+    text-decoration: none;
+    color: black;
+}

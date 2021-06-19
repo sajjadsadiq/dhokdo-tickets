@@ -1,0 +1,35 @@
+body{
+    
+    /* background-image: url(../../fakeData/image/bg.jpg);
+    background-position: cover;
+    height: 100px;
+    width: 100%; */
+    
+}
+.box-main-container{
+    width: 80%;
+    margin:auto;
+    /* display: flex; */
+    
+
+    
+}
+.box-container{
+    background-color: #dadcdb;
+
+    margin-top: 100px;
+    box-sizing: border-box;
+    width:22%;
+    border: 2px solid silver;
+    border-radius: 5px;
+    height:250px;
+    float:left;
+    padding:10px;
+    margin-left: 20px;
+    text-align: center;
+    /* background-color: rgb(233, 231, 231); */
+}
+
+@media (min-width: 992px){
+    
+}

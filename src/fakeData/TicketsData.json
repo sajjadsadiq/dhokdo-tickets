@@ -1,0 +1,5 @@
+[{"title":"ONE TIME TICKETS","btn":"BUY NOW", "tickteType":"one-time","price":120},
+{"title":"ONE DAY PASS","btn":"BUY NOW", "tickteType":"one-day","price":450},
+{"title":"MONTHLY PASS","btn":"BUY NOW", "tickteType":"monthly-pass","price":1499},
+{"title":"ANNUAL PASS","btn":"BUY NOW", "tickteType":"annual-pass","price":8990}
+]
